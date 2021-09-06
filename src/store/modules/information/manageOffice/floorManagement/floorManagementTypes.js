@@ -1,0 +1,5 @@
+export const SET_FLOORS = 'setFloors'
+export const SET_FLOORS_TREE = 'setFloorsTree'
+export const SET_FLOORS_PARENT = 'setFloorsParent'
+export const SET_FLOORS_CHILD = 'setFloorsChild'
+export const SET_FLOORS_ALL = 'setFloorsAll'

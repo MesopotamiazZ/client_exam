@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" stroke="#008CEE" x="0.5" y="0.5" width="17" height="17" rx="8.5"></rect>
+            <path d="M11.858533,8.62186885 L7.82472055,4.15663533 C7.63605395,3.94778822 7.33021256,3.94778822 7.14159196,4.15663533 C6.95292536,4.3654315 6.95292536,4.70398686 7.14159196,4.91283396 L10.8337251,8.99999363 L7.14149995,13.0871024 C6.95283335,13.2959495 6.95283335,13.6344539 7.14149995,13.8434029 C7.33016655,14.052199 7.63600795,14.052199 7.82467455,13.8434029 L11.858487,9.37811842 C11.8939109,9.33890548 11.922618,9.29521106 11.9447464,9.24866479 C12.0405289,9.04684546 12.0117758,8.79150301 11.858533,8.62186885 L11.858533,8.62186885 Z" id="Shape" fill="#008CEE" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>添加</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M584,1428 L1705,1428 L1705,1428 C1709.41828,1428 1713,1424.41828 1713,1420 L1713,394 L1713,394 C1713,389.581722 1709.41828,386 1705,386 L584,386 L584,386 C579.581722,386 576,389.581722 576,394 L576,1420 L576,1420 C576,1424.41828 579.581722,1428 584,1428 Z" id="path-1"></path>
+        <filter x="-0.8%" y="-0.8%" width="101.7%" height="101.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.807843137   0 0 0 0 0.835294118   0 0 0 0 0.949019608  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="30" height="30"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="主检分检" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U-体检-主检工作台-V1.0-1220-陈江" transform="translate(-975.000000, -809.000000)">
+            <g id="Group-7" transform="translate(628.000000, 351.000000)">
+                <g id="结论及建议" transform="translate(0.000000, 456.000000)"></g>
+            </g>
+            <g id="Stroke-10">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-11" transform="translate(586.000000, 738.000000)">
+                <path d="M8,199.5 L1109,199.5 C1113.14214,199.5 1116.5,196.142136 1116.5,192 L1116.5,8 C1116.5,3.85786438 1113.14214,0.5 1109,0.5 L8,0.5 C3.85786438,0.5 0.5,3.85786438 0.5,8 L0.5,192 C0.5,196.142136 3.85786438,199.5 8,199.5 Z" id="Stroke-10" stroke="#D9D9D9"></path>
+                <rect id="Rectangle-8" fill="#F2F7FF" x="11" y="61" width="1095" height="129" rx="4"></rect>
+                <g id="Group-26" transform="translate(389.000000, 71.000000)">
+                    <g id="Group-36">
+                        <use id="Rectangle-12" stroke="#008CEE" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="3" xlink:href="#path-3"></use>
+                        <g id="Group-31" transform="translate(8.000000, 8.000000)" fill="#008CEE">
+                            <rect id="Rectangle-13" x="0" y="6" width="14" height="2"></rect>
+                            <rect id="Rectangle-13" transform="translate(7.000000, 7.000000) rotate(90.000000) translate(-7.000000, -7.000000) " x="0" y="6" width="14" height="2"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

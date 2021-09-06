@@ -1,0 +1,9 @@
+// export const GET_ADDITION_LIST = 'getAdditionList'                     // 获取采样列表数据
+export const SET_ADDITION_LIST = 'setAdditionList'                     // 绑定采样列表数据
+// export const ADD_ADDITION_LIST = 'addAdditionList'                     // 新增加额外费用
+// export const GET_TYPE_LIST = 'getTypeList'                             // 获取价格类型列表
+export const SET_TYPE_LIST = 'setTypeList'                              // 绑定价格类型列表
+// export const AMEND_ADDITION_LIST = 'amendAdditionList'                  // 修改弃检原因
+// export const DELET_ADDITION_LIST = 'deletAdditionList'                   // 修改弃检原因
+// export const GET_ADMIN_OFFICE = 'getAdminOffice'                          // 获得科室列表
+export const SET_ADMIN_OFFICE = 'setAdminOffice'                          // 绑定科室列表

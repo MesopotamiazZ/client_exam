@@ -1,0 +1,74 @@
+[
+  {
+    "officeName": "内科",
+    "children": [
+      {
+        "proj_group": "一般检查一般检查一般检查一般检查一般检查一般检查",
+        "image": true,
+        "conslusion": "窦性心律不齐，肾小球肾炎窦性心律不齐，肾小球肾炎",
+        "doctor": "蒋敏",
+        "result_suggest": "无",
+        "give_up": true,
+        "checkup_again": "false",
+        "isExpand": true
+      },
+      {
+        "proj_group": "内科常规",
+        "image": true,
+        "conslusion": "窦性心律不齐，肾小球肾炎",
+        "doctor": "蒋敏",
+        "result_suggest": "进一步检查",
+        "give_up": false,
+        "checkup_again": true
+      },
+      {
+        "proj_group": "小星星",
+        "image": false,
+        "conslusion": "窦性心律不齐，肾小球肾炎",
+        "doctor": "蒋敏",
+        "result_suggest": "无",
+        "give_up": true,
+        "checkup_again": false,
+        "isExpand": true
+      }
+    ]
+  },
+  {
+    "officeName": "内科",
+    "children": [
+      {
+        "proj_group": "一般检查",
+        "image": false,
+        "conslusion": "窦性心律不齐，肾小球肾炎",
+        "doctor": "蒋敏",
+        "result_suggest": "无",
+        "give_up": true,
+        "checkup_again": false
+      },
+      {
+        "proj_group": "内科常规",
+        "image": true,
+        "conslusion": "窦性心律不齐，肾小球肾炎",
+        "doctor": "蒋敏",
+        "result_suggest": "进一步检查",
+        "give_up": false,
+        "checkup_again": true
+      }
+    ]
+  },
+  {
+    "officeName": "眼科",
+    "children": [
+      {
+        "proj_group": "视力检查",
+        "image": false,
+        "conslusion": "重度近视",
+        "doctor": "李昊",
+        "result_suggest": "配戴眼镜",
+        "give_up": false,
+        "checkup_again": false,
+        "isExpand": true
+      }
+    ]
+  }
+]

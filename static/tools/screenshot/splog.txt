@@ -1,0 +1,533 @@
+[2018-03-07 23:15:38.938] [I] ***************************************************************
+[2018-03-07 23:15:38.938] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-07 23:15:38.938] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-07 23:15:38.938] [I] Cores: 4
+[2018-03-07 23:15:38.938] [I] Elevated: false
+[2018-03-07 23:15:38.938] [I] Log level: 2
+[2018-03-07 23:15:38.938] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-07 23:15:38.938] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-07 23:15:38.938] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-07 23:15:38.938] [I] Screen scale: 1
+[2018-03-07 23:15:38.938] [I] Retina factor: 1
+[2018-03-07 23:15:38.939] [I] Screens: 2
+[2018-03-07 23:15:38.939] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-07 23:15:38.939] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-07 23:15:38.939] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-07 23:15:39.215] [I] Settings imported
+[2018-03-07 23:15:39.217] [I] Breakpad initialized
+[2018-03-07 23:15:39.437] [I] Process priority: 1
+[2018-03-07 23:15:39.437] [I] Initializing Snipaste...
+[2018-03-07 23:15:44.485] [I] Prefetch...
+[2018-03-07 23:15:44.485] [I] About to apply settings...
+[2018-03-07 23:15:44.955] [I] Image writer plugins loaded: 470 ms
+[2018-03-07 23:15:44.977] [I] Image reader plugins loaded: 22 ms
+[2018-03-07 23:15:45.034] [I] Settings applied
+[2018-03-07 23:15:45.162] [I] Log level set to: 2
+[2018-03-07 23:15:45.425] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-07 23:15:45.434] [I] Header version: 161
+[2018-03-07 23:15:45.441] [I] About to restore pasters...
+[2018-03-07 23:15:45.448] [I] Group 0 [WSLB87]: "默认"
+[2018-03-07 23:15:45.448] [I] Record version: 161
+[2018-03-07 23:15:45.448] [I] To restore: 0
+[2018-03-07 23:15:45.448] [I] Pasters touched
+[2018-03-07 23:15:45.448] [I] All pasters activated: true
+[2018-03-07 23:15:45.588] [I] Unref images: 0 (0 removed)
+[2018-03-07 23:15:45.588] [I] Unref dirs: 0 (0 removed)
+[2018-03-07 23:15:45.589] [I] Empty history info files: 0 (0 removed)
+[2018-03-07 23:15:45.589] [I] Pasters restored
+[2018-03-07 23:15:45.589] [I] Launch time: 7160 ms
+[2018-03-07 23:15:45.629] [I] Load default ssl configuration: 1144 ms
+[2018-03-07 23:16:47.921] [I] Silent feed checking finished
+[2018-03-07 23:16:47.921] [I] New version available: 1.16.2
+[2018-03-07 23:30:20.627] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-07 23:30:20.627] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-07 23:38:48.563] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-07 23:38:48.563] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-07 23:42:20.940] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-07 23:42:20.940] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 00:07:28.499] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 00:07:28.499] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 00:20:24.279] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 00:20:24.279] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 00:50:46.346] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 00:50:46.346] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 00:51:57.280] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 00:51:57.280] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 00:5[2018-03-08 09:26:45.480] [I] ***************************************************************
+[2018-03-08 09:26:45.480] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-08 09:26:45.480] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-08 09:26:45.480] [I] Cores: 4
+[2018-03-08 09:26:45.480] [I] Elevated: false
+[2018-03-08 09:26:45.480] [I] Log level: 2
+[2018-03-08 09:26:45.480] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-08 09:26:45.480] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-08 09:26:45.480] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-08 09:26:45.480] [I] Screen scale: 1
+[2018-03-08 09:26:45.480] [I] Retina factor: 1
+[2018-03-08 09:26:45.481] [I] Screens: 2
+[2018-03-08 09:26:45.481] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-08 09:26:45.481] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-08 09:26:45.481] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-08 09:26:45.600] [I] Settings imported
+[2018-03-08 09:26:45.602] [I] Breakpad initialized
+[2018-03-08 09:26:45.688] [I] Process priority: 1
+[2018-03-08 09:26:45.688] [I] Initializing Snipaste...
+[2018-03-08 09:26:48.006] [I] Prefetch...
+[2018-03-08 09:26:48.006] [I] About to apply settings...
+[2018-03-08 09:26:48.311] [I] Image writer plugins loaded: 305 ms
+[2018-03-08 09:26:48.320] [I] Image reader plugins loaded: 9 ms
+[2018-03-08 09:26:48.331] [I] Settings applied
+[2018-03-08 09:26:48.424] [I] Log level set to: 2
+[2018-03-08 09:26:48.644] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-08 09:26:48.650] [I] Header version: 161
+[2018-03-08 09:26:48.661] [I] About to restore pasters...
+[2018-03-08 09:26:48.667] [I] Group 0 [WSLB87]: "默认"
+[2018-03-08 09:26:48.667] [I] Record version: 161
+[2018-03-08 09:26:48.667] [I] To restore: 0
+[2018-03-08 09:26:48.667] [I] Pasters touched
+[2018-03-08 09:26:48.667] [I] All pasters activated: true
+[2018-03-08 09:26:48.942] [I] Unref images: 0 (0 removed)
+[2018-03-08 09:26:48.949] [I] Unref dirs: 0 (0 removed)
+[2018-03-08 09:26:48.956] [I] Empty history info files: 0 (0 removed)
+[2018-03-08 09:26:48.956] [I] Pasters restored
+[2018-03-08 09:26:48.956] [I] Launch time: 3522 ms
+[2018-03-08 09:26:49.099] [I] Load default ssl configuration: 1093 ms
+[2018-03-08 09:27:49.700] [I] Silent feed checking finished
+[2018-03-08 09:27:49.700] [I] New version available: 1.16.2
+[2018-03-08 09:39:00.686] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 09:39:00.686] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 09:41:15.229] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 09:41:15.229] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 09:46:03.118] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 09:46:03.118] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 09:46:31.501] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 09:46:31.501] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 09:58:38.194] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 09:58:38.194] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 10:07:53.342] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 10:07:53.342] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 10:11:46.143] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-08 10:11:46.143] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-08 10:13[2018-03-09 14:19:03.704] [I] ***************************************************************
+[2018-03-09 14:19:03.704] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-09 14:19:03.704] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-09 14:19:03.704] [I] Cores: 4
+[2018-03-09 14:19:03.704] [I] Elevated: false
+[2018-03-09 14:19:03.704] [I] Log level: 2
+[2018-03-09 14:19:03.704] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-09 14:19:03.704] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-09 14:19:03.704] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-09 14:19:03.704] [I] Screen scale: 1
+[2018-03-09 14:19:03.704] [I] Retina factor: 1
+[2018-03-09 14:19:03.705] [I] Screens: 2
+[2018-03-09 14:19:03.705] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-09 14:19:03.705] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-09 14:19:03.705] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-09 14:19:03.784] [I] Settings imported
+[2018-03-09 14:19:03.786] [I] Breakpad initialized
+[2018-03-09 14:19:03.853] [I] Process priority: 1
+[2018-03-09 14:19:03.853] [I] Initializing Snipaste...
+[2018-03-09 14:19:06.114] [I] Prefetch...
+[2018-03-09 14:19:06.115] [I] About to apply settings...
+[2018-03-09 14:19:06.484] [I] Settings applied
+[2018-03-09 14:19:06.542] [I] Image writer plugins loaded: 428 ms
+[2018-03-09 14:19:06.557] [I] Image reader plugins loaded: 15 ms
+[2018-03-09 14:19:06.623] [I] Log level set to: 2
+[2018-03-09 14:19:06.800] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-09 14:19:06.806] [I] Header version: 161
+[2018-03-09 14:19:06.811] [I] About to restore pasters...
+[2018-03-09 14:19:06.817] [I] Group 0 [WSLB87]: "默认"
+[2018-03-09 14:19:06.817] [I] Record version: 161
+[2018-03-09 14:19:06.817] [I] To restore: 0
+[2018-03-09 14:19:06.817] [I] Pasters touched
+[2018-03-09 14:19:06.817] [I] All pasters activated: true
+[2018-03-09 14:19:07.126] [I] Unref images: 0 (0 removed)
+[2018-03-09 14:19:07.126] [I] Unref dirs: 0 (0 removed)
+[2018-03-09 14:19:07.127] [I] Empty history info files: 0 (0 removed)
+[2018-03-09 14:19:07.127] [I] Pasters restored
+[2018-03-09 14:19:07.127] [I] Launch time: 3478 ms
+[2018-03-09 14:19:07.239] [I] Load default ssl configuration: 1124 ms
+[2018-03-09 14:20:07.838] [I] Silent feed checking finished
+[2018-03-09 14:20:07.838] [I] New version available: 1.16.2
+[2018-03-09 14:28:21.411] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-09 14:28:21.411] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-09 15:21:47.236] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-09 15:21:47.236] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-09 15:35:30.338] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-09 15:35:30.338] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-09 15:37:45.359] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-09 15:37:45.359] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-09 17:53:48.852] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-09 17:53:48.853] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-09 17:54:13.596] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-09 17:54:13.596] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-09 17:59:57.499] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-09 17:59:57.499] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-09 18:0[2018-03-12 09:11:28.526] [I] ***************************************************************
+[2018-03-12 09:11:28.526] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-12 09:11:28.526] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-12 09:11:28.526] [I] Cores: 4
+[2018-03-12 09:11:28.526] [I] Elevated: false
+[2018-03-12 09:11:28.526] [I] Log level: 2
+[2018-03-12 09:11:28.526] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-12 09:11:28.526] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-12 09:11:28.526] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-12 09:11:28.526] [I] Screen scale: 1
+[2018-03-12 09:11:28.526] [I] Retina factor: 1
+[2018-03-12 09:11:28.527] [I] Screens: 2
+[2018-03-12 09:11:28.527] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-12 09:11:28.527] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-12 09:11:28.527] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-12 09:11:28.638] [I] Settings imported
+[2018-03-12 09:11:28.640] [I] Breakpad initialized
+[2018-03-12 09:11:28.726] [I] Process priority: 1
+[2018-03-12 09:11:28.726] [I] Initializing Snipaste...
+[2018-03-12 09:11:30.995] [I] Prefetch...
+[2018-03-12 09:11:30.996] [I] About to apply settings...
+[2018-03-12 09:11:31.318] [I] Image writer plugins loaded: 323 ms
+[2018-03-12 09:11:31.322] [I] Image reader plugins loaded: 4 ms
+[2018-03-12 09:11:31.340] [I] Settings applied
+[2018-03-12 09:11:31.450] [I] Log level set to: 2
+[2018-03-12 09:11:31.631] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-12 09:11:31.642] [I] Header version: 161
+[2018-03-12 09:11:31.648] [I] About to restore pasters...
+[2018-03-12 09:11:31.653] [I] Group 0 [WSLB87]: "默认"
+[2018-03-12 09:11:31.653] [I] Record version: 161
+[2018-03-12 09:11:31.653] [I] To restore: 0
+[2018-03-12 09:11:31.653] [I] Pasters touched
+[2018-03-12 09:11:31.653] [I] All pasters activated: true
+[2018-03-12 09:11:31.971] [I] Unref images: 0 (0 removed)
+[2018-03-12 09:11:31.977] [I] Unref dirs: 0 (0 removed)
+[2018-03-12 09:11:31.984] [I] Empty history info files: 0 (0 removed)
+[2018-03-12 09:11:31.984] [I] Pasters restored
+[2018-03-12 09:11:31.984] [I] Launch time: 3534 ms
+[2018-03-12 09:11:32.100] [I] Load default ssl configuration: 1105 ms
+[2018-03-12 09:12:34.344] [I] Silent feed checking finished
+[2018-03-12 09:12:34.344] [I] New version available: 1.16.2
+[2018-03-12 09:25:38.489] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 09:25:38.490] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 10:07:37.515] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 10:07:37.515] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 10:20:43.679] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 10:20:43.679] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 10:47:45.259] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 10:47:45.259] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 13:45:10.379] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 13:45:10.379] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 14:29:27.671] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 14:29:27.671] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 14:54:57.349] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 14:54:57.349] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 16:29[2018-03-12 21:56:57.654] [I] ***************************************************************
+[2018-03-12 21:56:57.654] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-12 21:56:57.654] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-12 21:56:57.654] [I] Cores: 4
+[2018-03-12 21:56:57.654] [I] Elevated: false
+[2018-03-12 21:56:57.654] [I] Log level: 2
+[2018-03-12 21:56:57.654] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-12 21:56:57.654] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-12 21:56:57.654] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-12 21:56:57.654] [I] Screen scale: 1
+[2018-03-12 21:56:57.654] [I] Retina factor: 1
+[2018-03-12 21:56:57.655] [I] Screens: 2
+[2018-03-12 21:56:57.655] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-12 21:56:57.655] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-12 21:56:57.655] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-12 21:56:57.852] [I] Settings imported
+[2018-03-12 21:56:57.856] [I] Breakpad initialized
+[2018-03-12 21:56:57.984] [I] Process priority: 1
+[2018-03-12 21:56:57.984] [I] Initializing Snipaste...
+[2018-03-12 21:57:04.195] [I] Prefetch...
+[2018-03-12 21:57:04.195] [I] About to apply settings...
+[2018-03-12 21:57:04.616] [I] Image writer plugins loaded: 420 ms
+[2018-03-12 21:57:04.632] [I] Image reader plugins loaded: 17 ms
+[2018-03-12 21:57:04.654] [I] Settings applied
+[2018-03-12 21:57:04.851] [I] Log level set to: 2
+[2018-03-12 21:57:05.112] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-12 21:57:05.126] [I] Header version: 161
+[2018-03-12 21:57:05.133] [I] About to restore pasters...
+[2018-03-12 21:57:05.147] [I] Group 0 [WSLB87]: "默认"
+[2018-03-12 21:57:05.147] [I] Record version: 161
+[2018-03-12 21:57:05.147] [I] To restore: 0
+[2018-03-12 21:57:05.147] [I] Pasters touched
+[2018-03-12 21:57:05.147] [I] All pasters activated: true
+[2018-03-12 21:57:05.339] [I] Load default ssl configuration: 1144 ms
+[2018-03-12 21:57:05.445] [I] Unref images: 0 (0 removed)
+[2018-03-12 21:57:05.445] [I] Unref dirs: 0 (0 removed)
+[2018-03-12 21:57:05.445] [I] Empty history info files: 0 (0 removed)
+[2018-03-12 21:57:05.445] [I] Pasters restored
+[2018-03-12 21:57:05.445] [I] Launch time: 7918 ms
+[2018-03-12 21:58:06.213] [I] Silent feed checking finished
+[2018-03-12 21:58:06.213] [I] New version available: 1.16.2
+[2018-03-12 23:29:32.731] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 23:29:32.731] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 23:31:47.061] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 23:31:47.061] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 23:33:46.868] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 23:33:46.868] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-12 23:59:32.256] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-12 23:59:32.257] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 00:37:31.871] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 00:37:31.871] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 00:47:36.534] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 00:47:36.534] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 00:48:21.692] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 00:48:21.692] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 00:4[2018-03-13 08:48:37.006] [I] ***************************************************************
+[2018-03-13 08:48:37.006] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-13 08:48:37.006] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-13 08:48:37.006] [I] Cores: 4
+[2018-03-13 08:48:37.006] [I] Elevated: false
+[2018-03-13 08:48:37.006] [I] Log level: 2
+[2018-03-13 08:48:37.006] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-13 08:48:37.006] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-13 08:48:37.006] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-13 08:48:37.006] [I] Screen scale: 1
+[2018-03-13 08:48:37.006] [I] Retina factor: 1
+[2018-03-13 08:48:37.007] [I] Screens: 2
+[2018-03-13 08:48:37.007] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-13 08:48:37.007] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-13 08:48:37.007] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-13 08:48:37.097] [I] Settings imported
+[2018-03-13 08:48:37.099] [I] Breakpad initialized
+[2018-03-13 08:48:37.157] [I] Process priority: 1
+[2018-03-13 08:48:37.157] [I] Initializing Snipaste...
+[2018-03-13 08:48:39.293] [I] Prefetch...
+[2018-03-13 08:48:39.294] [I] About to apply settings...
+[2018-03-13 08:48:39.731] [I] Settings applied
+[2018-03-13 08:48:39.826] [I] Image writer plugins loaded: 532 ms
+[2018-03-13 08:48:39.865] [I] Image reader plugins loaded: 40 ms
+[2018-03-13 08:48:39.936] [I] Log level set to: 2
+[2018-03-13 08:48:40.263] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-13 08:48:40.270] [I] Header version: 161
+[2018-03-13 08:48:40.277] [I] About to restore pasters...
+[2018-03-13 08:48:40.284] [I] Group 0 [WSLB87]: "默认"
+[2018-03-13 08:48:40.284] [I] Record version: 161
+[2018-03-13 08:48:40.284] [I] To restore: 0
+[2018-03-13 08:48:40.284] [I] Pasters touched
+[2018-03-13 08:48:40.284] [I] All pasters activated: true
+[2018-03-13 08:48:40.439] [I] Load default ssl configuration: 1145 ms
+[2018-03-13 08:48:40.524] [I] Unref images: 0 (0 removed)
+[2018-03-13 08:48:40.524] [I] Unref dirs: 0 (0 removed)
+[2018-03-13 08:48:40.524] [I] Empty history info files: 0 (0 removed)
+[2018-03-13 08:48:40.524] [I] Pasters restored
+[2018-03-13 08:48:40.525] [I] Launch time: 3562 ms
+[2018-03-13 08:49:41.233] [I] Silent feed checking finished
+[2018-03-13 08:49:41.233] [I] New version available: 1.16.2
+[2018-03-13 08:54:01.763] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 08:54:01.763] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 08:54:10.122] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 08:54:10.122] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 09:41:13.788] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 09:41:13.788] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 09:43:34.809] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 09:43:34.809] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 09:44:08.945] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 09:44:08.945] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 09:59:45.675] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 09:59:45.675] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 10:00:56.796] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-13 10:00:56.796] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-13 10:0[2018-03-14 09:07:28.094] [I] ***************************************************************
+[2018-03-14 09:07:28.094] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-14 09:07:28.094] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-14 09:07:28.094] [I] Cores: 4
+[2018-03-14 09:07:28.094] [I] Elevated: false
+[2018-03-14 09:07:28.094] [I] Log level: 2
+[2018-03-14 09:07:28.094] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-14 09:07:28.094] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-14 09:07:28.094] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-14 09:07:28.094] [I] Screen scale: 1
+[2018-03-14 09:07:28.094] [I] Retina factor: 1
+[2018-03-14 09:07:28.095] [I] Screens: 2
+[2018-03-14 09:07:28.095] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-14 09:07:28.095] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-14 09:07:28.095] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-14 09:07:28.302] [I] Settings imported
+[2018-03-14 09:07:28.303] [I] Breakpad initialized
+[2018-03-14 09:07:28.380] [I] Process priority: 1
+[2018-03-14 09:07:28.380] [I] Initializing Snipaste...
+[2018-03-14 09:07:34.538] [I] Prefetch...
+[2018-03-14 09:07:34.539] [I] About to apply settings...
+[2018-03-14 09:07:34.953] [I] Settings applied
+[2018-03-14 09:07:35.046] [I] Log level set to: 2
+[2018-03-14 09:07:35.057] [I] Image writer plugins loaded: 520 ms
+[2018-03-14 09:07:35.082] [I] Image reader plugins loaded: 25 ms
+[2018-03-14 09:07:35.202] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-14 09:07:35.214] [I] Header version: 161
+[2018-03-14 09:07:35.220] [I] About to restore pasters...
+[2018-03-14 09:07:35.225] [I] Group 0 [WSLB87]: "默认"
+[2018-03-14 09:07:35.225] [I] Record version: 161
+[2018-03-14 09:07:35.225] [I] To restore: 0
+[2018-03-14 09:07:35.226] [I] Pasters touched
+[2018-03-14 09:07:35.226] [I] All pasters activated: true
+[2018-03-14 09:07:35.519] [I] Unref images: 0 (0 removed)
+[2018-03-14 09:07:35.526] [I] Unref dirs: 0 (0 removed)
+[2018-03-14 09:07:35.533] [I] Empty history info files: 0 (0 removed)
+[2018-03-14 09:07:35.533] [I] Pasters restored
+[2018-03-14 09:07:35.533] [I] Launch time: 7625 ms
+[2018-03-14 09:07:35.660] [I] Load default ssl configuration: 1121 ms
+[2018-03-14 09:08:36.230] [I] Silent feed checking finished
+[2018-03-14 09:08:36.230] [I] New version available: 1.16.2
+[2018-03-14 09:14:00.601] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 09:14:00.601] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 09:18:09.809] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 09:18:09.809] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 10:34:51.806] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 10:34:51.807] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 10:35:39.572] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 10:35:39.572] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 10:52:09.984] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 10:52:09.984] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 10:53:44.927] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 10:53:44.927] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 11:09:48.208] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 11:09:48.208] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 11:10:12.900] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 11:10:12.900] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 11:11:25.008] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 11:11:25.008] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 11:47:40.003] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 11:47:40.003] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 11:51:35.017] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 11:51:35.017] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 11:52:18.143] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 11:52:18.143] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 11:52:58.544] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 11:52:58.544] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 12:03:44.733] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 12:03:44.733] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 12:04:58.872] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 12:04:58.872] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 12:06:40.385] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 12:06:40.385] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 12:18:07.535] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 12:18:07.535] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 13:13:10.177] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 13:13:10.177] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 13:25:01.151] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 13:25:01.151] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 13:26:29.674] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 13:26:29.674] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 14:13:08.785] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 14:13:08.785] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 14:16:48.426] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 14:16:48.426] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 14:22:38.182] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 14:22:38.182] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 14:39:22.630] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 14:39:22.630] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 14:56:46.516] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14 14:56:46.517] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-14 15:17:44.605] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-14[2018-03-20 09:40:41.365] [I] ***************************************************************
+[2018-03-20 09:40:41.365] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-20 09:40:41.365] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-20 09:40:41.368] [I] Cores: 4
+[2018-03-20 09:40:41.368] [I] Elevated: false
+[2018-03-20 09:40:41.368] [I] Log level: 2
+[2018-03-20 09:40:41.368] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-20 09:40:41.368] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-20 09:40:41.368] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-20 09:40:41.368] [I] Screen scale: 1
+[2018-03-20 09:40:41.368] [I] Retina factor: 1
+[2018-03-20 09:40:41.369] [I] Screens: 2
+[2018-03-20 09:40:41.369] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-20 09:40:41.370] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-20 09:40:41.370] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-20 09:40:41.556] [I] Settings imported
+[2018-03-20 09:40:41.560] [I] Breakpad initialized
+[2018-03-20 09:40:41.616] [I] Process priority: 1
+[2018-03-20 09:40:41.616] [I] Initializing Snipaste...
+[2018-03-20 09:40:44.385] [I] Prefetch...
+[2018-03-20 09:40:44.385] [I] About to apply settings...
+[2018-03-20 09:40:44.699] [I] Image writer plugins loaded: 314 ms
+[2018-03-20 09:40:44.703] [I] Image reader plugins loaded: 4 ms
+[2018-03-20 09:40:44.750] [I] Settings applied
+[2018-03-20 09:40:44.901] [I] Log level set to: 2
+[2018-03-20 09:40:45.117] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-20 09:40:45.131] [I] Header version: 161
+[2018-03-20 09:40:45.137] [I] About to restore pasters...
+[2018-03-20 09:40:45.144] [I] Group 0 [WSLB87]: "默认"
+[2018-03-20 09:40:45.144] [I] Record version: 161
+[2018-03-20 09:40:45.144] [I] To restore: 0
+[2018-03-20 09:40:45.144] [I] Pasters touched
+[2018-03-20 09:40:45.144] [I] All pasters activated: true
+[2018-03-20 09:40:45.391] [I] Unref images: 0 (0 removed)
+[2018-03-20 09:40:45.391] [I] Unref dirs: 0 (0 removed)
+[2018-03-20 09:40:45.392] [I] Empty history info files: 0 (0 removed)
+[2018-03-20 09:40:45.392] [I] Pasters restored
+[2018-03-20 09:40:45.392] [I] Launch time: 4211 ms
+[2018-03-20 09:40:45.508] [I] Load default ssl configuration: 1123 ms
+[2018-03-20 09:41:46.221] [I] Silent feed checking finished
+[2018-03-20 09:41:46.221] [I] New version available: 1.16.2
+[2018-03-20 10:36:44.693] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-20 10:36:44.693] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-20 10:47:42.418] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-20 10:47:42.418] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-20 10:49:16.990] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-20 10:49:16.990] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-20 10:52:32.883] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-20 10:52:32.883] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-20 10:57:59.302] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-20 10:57:59.302] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-20 11:22:06.185] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-20 11:22:06.185] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-20 11:28:44.531] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-20 11:28:44.531] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-20 11:31[2018-03-21 09:17:59.424] [I] ***************************************************************
+[2018-03-21 09:17:59.424] [I] Snipaste 1.15.3 x64 (Qt 5.9.0)
+[2018-03-21 09:17:59.424] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-03-21 09:17:59.425] [I] Cores: 4
+[2018-03-21 09:17:59.425] [I] Elevated: false
+[2018-03-21 09:17:59.425] [I] Log level: 2
+[2018-03-21 09:17:59.425] [I] Application dir: D:/company/client/static/tools/screenshot
+[2018-03-21 09:17:59.425] [I] Config: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-21 09:17:59.425] [I] Library paths: (D:/company/client/static/tools/screenshot)
+[2018-03-21 09:17:59.425] [I] Screen scale: 1
+[2018-03-21 09:17:59.425] [I] Retina factor: 1
+[2018-03-21 09:17:59.425] [I] Screens: 2
+[2018-03-21 09:17:59.425] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-21 09:17:59.425] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2018-03-21 09:17:59.425] [I] About to import settings from: D:/company/client/static/tools/screenshot/config.ini
+[2018-03-21 09:17:59.538] [I] Settings imported
+[2018-03-21 09:17:59.542] [I] Breakpad initialized
+[2018-03-21 09:17:59.833] [I] Process priority: 1
+[2018-03-21 09:17:59.833] [I] Initializing Snipaste...
+[2018-03-21 09:18:05.137] [I] Prefetch...
+[2018-03-21 09:18:05.137] [I] About to apply settings...
+[2018-03-21 09:18:05.618] [I] Image writer plugins loaded: 482 ms
+[2018-03-21 09:18:05.633] [I] Image reader plugins loaded: 14 ms
+[2018-03-21 09:18:05.653] [I] Settings applied
+[2018-03-21 09:18:05.759] [I] Log level set to: 2
+[2018-03-21 09:18:06.052] [I] History dir: D:/company/client/static/tools/screenshot/history
+[2018-03-21 09:18:06.066] [I] Header version: 161
+[2018-03-21 09:18:06.072] [I] About to restore pasters...
+[2018-03-21 09:18:06.078] [I] Group 0 [WSLB87]: "默认"
+[2018-03-21 09:18:06.078] [I] Record version: 161
+[2018-03-21 09:18:06.078] [I] To restore: 0
+[2018-03-21 09:18:06.078] [I] Pasters touched
+[2018-03-21 09:18:06.078] [I] All pasters activated: true
+[2018-03-21 09:18:06.225] [I] Unref images: 0 (0 removed)
+[2018-03-21 09:18:06.225] [I] Unref dirs: 0 (0 removed)
+[2018-03-21 09:18:06.225] [I] Empty history info files: 0 (0 removed)
+[2018-03-21 09:18:06.225] [I] Pasters restored
+[2018-03-21 09:18:06.225] [I] Launch time: 6863 ms
+[2018-03-21 09:18:06.277] [I] Load default ssl configuration: 1140 ms
+[2018-03-21 09:19:06.965] [I] Silent feed checking finished
+[2018-03-21 09:19:06.965] [I] New version available: 1.16.2
+[2018-03-21 09:53:15.696] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-21 09:53:15.696] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-21 10:01:19.090] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-21 10:01:19.090] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-21 10:02:47.116] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-21 10:02:47.116] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-21 10:03:56.531] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-21 10:03:56.531] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-21 10:10:24.717] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-21 10:10:24.717] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-21 10:11:33.675] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-21 10:11:33.675] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-21 10:12:07.192] [I] Second instance: (D:\company\client\static\tools\screenshot\Snipaste.exe)
+[2018-03-21 10:12:07.192] [W] No valid arguments matched ((D:\company\client\static\tools\screenshot\Snipaste.exe))
+[2018-03-21 10:1

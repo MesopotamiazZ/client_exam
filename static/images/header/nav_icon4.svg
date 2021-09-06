@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>统计分析</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FAFEFF" offset="0%"></stop>
+            <stop stop-color="#EDF2F2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M34.3170883,26 L32.6839486,26 C31.7548735,26 31,25.2859235 31,24.4108996 L31,11.593175 C31,10.7150952 31.7548735,10 32.6839486,10 L34.3170883,10 C35.2461634,10 36,10.7150952 36,11.593175 L36,24.4108996 C35.9958523,25.2899981 35.2461634,26 34.3170883,26 Z M26.3170883,26 L24.6839486,26 C23.7548735,26 23,25.3033788 23,24.4497445 L23,6.5532368 C23,5.69662124 23.7548735,5 24.6839486,5 L26.3170883,5 C27.2461634,5 28,5.69662124 28,6.5532368 L28,24.4497445 C27.9927416,25.3073538 27.2461634,26 26.3170883,26 Z M12.247,27.886455 L37.377,27.886455 C38.273,27.886455 39,28.5844387 39,29.4427296 C38.993,30.3020163 38.269,31 37.377,31 L10.624,31 C9.728,31 9,30.3020163 9,29.4427296 L9,4.55229188 C9,3.69400092 9.728,3 10.624,3 C11.52,3 12.247,3.69798371 12.247,4.55229188 L12.247,27.886455 Z M16.6839486,26 C15.7548735,26 15,25.3110257 15,24.466762 L15,16.5361866 C15,15.6889743 15.7548735,15 16.6839486,15 L18.3170883,15 C19.2461634,15 20,15.6889743 20,16.5361866 L20,24.466762 C19.9958523,25.3149571 19.2420158,26 18.3170883,26 L16.6839486,26 Z" id="path-4"></path>
+        <filter x="-11.7%" y="-8.9%" width="123.3%" height="125.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0938796525   0 0 0 0 0.235086435   0 0 0 0 0.266661352  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="顶部图标" transform="translate(-353.000000, 2.000000)">
+            <g id="Group-5" transform="translate(0.000000, -2.000000)">
+                <g id="统计分析" transform="translate(348.000000, 0.000000)">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

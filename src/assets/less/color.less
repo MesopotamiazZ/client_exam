@@ -1,0 +1,237 @@
+/*=======================================UI颜色规范*/
+:root {
+  --mainColor-ash-one: #111111;//一级灰
+  --mainColor-ash-two: #4a4a4a;//二级灰
+  --mainColor-ash-three: #737373;//三级灰
+  --mainColor-ash-four: #ccc;//四级灰
+  --mainColor-ash-five: #d9d9d9;//五级灰
+
+  --mainColor-blue-one: #008CEE;//一级蓝
+  --mainColor-blue-two: #33A3F1;//二级蓝
+  --mainColor-blue-three: #add2fe;//三级蓝
+  --mainColor-blue-four: #e8f2ff;//四级蓝
+  --mainColor-blue-five: #f2f5fa;//五级蓝
+
+  --auxiliaryColor-allBg: #f6f7f9;//背景
+  --auxiliaryColor-chouse-border: #68ccff;//表格选中
+  --auxiliaryColor-sidebar-icon: #83cb54;//侧边栏置顶icon
+  --auxiliaryColor-sidebar-hoverBg: #e4ffdc;//侧边栏置顶移入背景
+  --auxiliaryColor-ts-icon: #ff6262;//作废icon、关闭icon等、提示性文字
+  --auxiliaryColor-error-hover: rgba(255,98,98,0.2);// 删除按钮没有背景的背景移入颜色
+  --auxiliaryColor-ts-icon-hover: #ff8181;// 移入效果
+  --auxiliaryColor-alert-bg: rgba(0,0,0,0.5);//弹出背景
+  --auxiliaryColot-table-hover: #DFF0FF; // 表格移入颜色
+
+  --content-bg: #fff;
+
+  --navbar-bg-one: #EBEEF2;// 导航一级背景
+  --navbar-bg-active-one: #BADFFF;// 一级导航激活背景
+  --navbar-bg: #fff;// 白色背景
+
+  --navbar-gradient-start: #0067d4;//导航开始
+  --navbar-gradient-end: #008cee;//导航结束
+
+  --alert-header-bg: #F2F5FA;//alertHeader背景
+
+  --table-th: #d7e9ff;// 表格表头
+  --table-tr: #f2f7ff;// 表格中间间隔
+
+  --tabel-search-active: #68ccff;// 左筛右
+
+  --button-hover-bg: #ebf4ff;// 无背景按钮移入背景颜色
+  --button-active-bg: #EBF4FF;// 无背景按钮选中背景颜色
+  --button-disabled-bg: #F7F7F7;// 按钮禁用背景颜色
+  --button-disabled-text: #DDDDDD;// 按钮禁用文字颜色
+  --button-disabled-border: #E7E7E7;// 按钮禁用边框颜色
+
+  --iview-input-disabled: #F2F5FA;//iview组件input禁用
+  --iview-modal-header-bg: #F2F5FA;//iview组件模态框头部背景
+  --iview-table-stripe: #f7faff;//iview组件表格间隔颜色
+
+  --close-normal:#b3b3b3;//关闭按钮未移入颜色
+
+  --bgNormal: #fff;//背景或者常规使用的白色
+
+  --infor-single-form-text: #797979;//单个项目、角色、账号管理弹窗文字
+
+  --animation-time: 200ms;
+}
+/*=========主色*/
+@gradeAshOne: var(--mainColor-ash-one);//一级灰：表头文字、侧导航一级文字、标签栏鼠标移入时文字、弹窗标题
+@gradeAshTwo: var(--mainColor-ash-two);//二级灰：表格内容文字、悬浮框内文字、输入框输入文字、输入框不可编辑时文字、侧边栏二级三级文字
+@gradeAshThree: var(--mainColor-ash-three);//三级灰：tab按钮未选中时文字、标签栏未选中时文字、输入框前面文字、否定提示文字（如未签收）
+@gradeAshFour: var(--mainColor-ash-four);//四级灰：输入框默认提示文字、侧边栏箭头icon颜色、输入框日历icon颜色、输入框颜色
+@gradeAshFive: var(--mainColor-ash-five);//五级灰：表格内分割线、侧导航分割线、悬浮框背景描边
+
+@gradeBlueOne: var(--mainColor-blue-one);//一级蓝：所有蓝色文字、侧边栏置顶选中icon、实心按钮背景、单选框复选框背景、侧边栏置顶选中虚线框、侧边栏箭头icon、返回icon
+@gradeBlueTwo: var(--mainColor-blue-two);//二级蓝：实心按钮及蓝色图标鼠标移上去效果
+@gradeBlueThree: var(--mainColor-blue-three);//三级蓝：侧导航二级分割线
+@gradeBlueFour: var(--mainColor-blue-four);//四级蓝：下拉框选中背景、表格表头背景、侧边栏2级背景
+@gradeBlueFive: var(--mainColor-blue-five);//五级蓝：输入框禁用背景
+/*=========辅助色*/
+@allBg: var(--auxiliaryColor-allBg);//背景色
+@gradientStart: var(--navbar-gradient-start);//导航渐变开始颜色
+@gradientEnd: var(--navbar-gradient-end);//导航渐变结束颜色
+@tableChouseBorder: var(--auxiliaryColor-chouse-border);//表格行选中边框
+@sidebarTopIcon: var(--auxiliaryColor-sidebar-icon);//侧边栏置顶icon
+@sidebarTopHoverBg: var(--auxiliaryColor-sidebar-hoverBg);//侧边栏置顶移入背景
+@tsIcon: var(--auxiliaryColor-ts-icon);//作废icon、关闭icon等、提示性文字
+@errorHover: var(--auxiliaryColor-error-hover);// 删除按钮没有背景的移入颜色
+@tsIconHover: var(--auxiliaryColor-ts-icon-hover);//作废icon、关闭icon等、提示性文字
+@alertBg: var(--auxiliaryColor-alert-bg);//弹出框背景
+
+@contentBg: var(--content-bg);//白色
+
+@navOneBg: var(--navbar-bg-one);//一级导航背景
+@navOneActiveBg: var(--navbar-bg-active-one);//一级导航激活背景
+@backgourdWithe: var(--navbar-bg); //背景白色
+
+/* ===========表格颜色 */
+@tableTh: var(--table-th); // 表头颜色
+@tableTr: var(--table-tr); // 间隔
+/* ===========左筛右的 */
+@tabelSearchActive: var(--tabel-search-active);
+
+/*============按钮颜色*/
+//无背景按钮
+@buttonHoverBg: var(--button-hover-bg); // 按钮移入背景颜色
+@buttonTextColor: @gradeBlueOne; //文字颜色
+@buttonBorderColor: @gradeBlueOne; //边框颜色
+
+// @buttonHoverBg: #EBF4FF; // 移入背景
+@buttonHoverBorder: @gradeBlueOne; // 移入边框
+@buttonHoverText: @gradeBlueOne; // 移入文字
+
+
+@buttonActiveBorderColor: @gradeBlueOne;// 选中边框颜色
+@buttonActiveTextColor: @gradeBlueOne;// 选中文字颜色
+@buttonActiveBG: var(--button-active-bg);// 选中背景颜色
+
+@btnDisabledBg: var(--button-disabled-bg);// 无背景禁用背景颜色
+@btnDisabledText: var(--button-disabled-text);// 无背景禁用文字颜色
+@btnDisabledBorder: var(--button-disabled-border);// 无背景禁用边框颜色
+//有背景颜色
+@hasBgBtnTextColor: var(--bgNormal); // 有背景文字颜色
+@hasBgBtnBg: @gradeBlueOne;// 有背景背景颜色
+@hasBgBtnBorder: @gradeBlueOne;// 有背景边框颜色
+
+@hasBgBtnActiveText: var(--bgNormal); // 有背景选中文字颜色
+@hasBgBtnActiveBg: @gradeBlueTwo; // 有背景选中背景颜色
+@hasBgBtnActiveBorder: @gradeBlueTwo; // 有背景选中边框颜色
+
+@hasBgBtnHoverText: var(--bgNormal); // 有背景移入文字颜色
+@hasBgBtnHoverBg: @gradeBlueTwo; // 有背景移入背景颜色
+@hasBgBtnHOverBorder: @gradeBlueTwo; // 有背景移入边框颜色
+@hasBgBtnDisabledBg: var(--button-disabled-bg);// 有背景禁用背景颜色
+@hasBgBtnDisabledBorder: var(--button-disabled-border);// 有背景禁用边框颜色
+@hasBgBtnDisabledText: var(--button-disabled-text);// 有背景禁用背景颜色
+
+/*============分页按钮颜色*/
+//常规
+@pageItemBorder:  @gradeAshFive; // 边框
+@pageItemText: @gradeAshThree; //文字
+@pageItemHoverBorder: @gradeBlueOne; //移入边框
+@pageItemHoverText: @gradeBlueOne; //移入文字
+//选中
+@pageActiveText: var(--bgNormal); // 选中文字颜色
+//下一页
+@pageNextHoverBorder: @gradeBlueOne; // 
+@pageNextHoverText: @gradeBlueOne; // 
+//点点点
+@pagePoint: @gradeAshFive; // 
+@pagePointBorder: @gradeAshFive;
+@pagePointBg: var(--bgNormal);
+//禁用
+@pageDisableBorder: @gradeAshFive;
+@pageDisableText: @gradeAshFive;
+//向左翻5页
+@pageToL: @gradeBlueOne;
+//向右翻5页
+// @pageToR: @gradeBlueOne;
+
+/*============================================================================================*/
+
+// contextmenu 右键菜单
+
+// header
+@headerText: #fff;//导航文字
+@header-hover: #4C82E8;//移入
+@headerBgL: var(--navbar-gradient-start);//背景渐变开始
+@headerBgR: var(--navbar-gradient-end);//背景渐变结束
+@logoBg: #5D8DFF;
+@headerLine: #4A7ADF;
+@headerLineShadow: rgba(255,255,255,0.12);
+@winIconBg: rgba(0,0,0,0.1);
+@wintopDragBg: rgba(0,0,0,0);// 窗口拖动
+@winIcon: #95C9FF;//窗口图标
+@winIconHover: #fff;//窗口图标移入除关闭按钮
+@winCloseHoverBg: #ff6b6b;//窗口关闭按钮移入背景
+@winCloseIcon: #7E2323;//窗口关闭按钮移入
+@userMenushadow: 2px 0 4px rgba(0,0,0,0.12); //用户菜单阴影
+@rightTableshadow: -1px 0 6px 0 rgba(206,213,242,0.70); //点击出现的右侧详情框的阴影
+@userMenuItemHover:#f1f5ff; //用户菜单选项悬浮背景
+
+//mainMenu
+@mainMenuBorder:#cccccc; //主导航边框
+@mainMenuItemActiveBorder: #247DD8; //主导航激活时边框
+
+// MenuTree
+@menuTreeShadow: rgba(118,125,153,0.5);//菜单阴影
+@menuTreeBorder:#D9D9D9; //菜单边框
+@menuTreeLevel1Text:#272727;//一级导航文字
+@menuTreeLevel1TextLight: #3d82e3; //一级导航文字高亮
+@menuTreeLevel2Text:#5c5c5c;//二级导航文字
+@menuTreeLevel3Text:#5c5c5c;//三级导航文字
+@menuTreeLevel3TextLight: #3d82e3; //三级导航文字高亮
+@menuTreeLevel1ItemBorder: #d9d9d9;//一级导航边框
+@menuTreeLevel2ItemBorder: #bfdaff;//二级导航边框
+@menuTreeLevel3ItemBorder: #bfdaff;//三级导航边框
+@menuTreeLevel2ItemBg:#e6f0ff;//二级导航选项背景
+@menuTreeLevel2ItemHover:#f3f8ff;//二级导航选项悬浮
+@menuTreeLevel3ItemBg:#f3f8ff;//三级导航选项背景
+@menuTreeIcon:#c2c2c2;//箭头默认颜色色
+@menuTreeHoverBg: #dff0ff;//左侧导航二三级移入
+
+//TabGroup
+@tagGroupBorder:@gradeAshFive; //标签边框
+@tagGroupText:#737373; //标签文字
+@tagGroupTextLight:#008cee; //标签文字高亮
+
+// synthManagement切换按钮
+@synthManageABorder: #DDDDDD;//切换按钮边框
+@synthManageABg: #fff;//切换按钮背景
+@synthManageAText: #737373;//切换按钮文字颜色
+@synthManageABorder-chouse: #5BA6FE;//切换按钮边框选中
+@synthManageABg-chouse: #5BA6FE;//切换按钮背景选中
+@synthManageAText-chouse: #fff;//切换按钮文字颜色选中
+
+
+
+/*================================input*/
+@iviInputDisabled: var(--iview-input-disabled);
+/*================================输入框、select框右侧提示文字*/
+@iviGroupAppend: var(--bgNormal);//
+/*================================modal*/
+@iviModalHeaderBg: var(--iview-modal-header-bg);
+/*================================alertHeader*/
+@alertHeadBg: var( --alert-header-bg);
+/*================================table*/
+@iviTableStrip: var(--iview-table-stripe);
+@iviTableHover: var(--auxiliaryColot-table-hover);
+@closeNormal:var(--close-normal);
+
+
+
+/*==================================单个项目管理-覃*/
+@inforSingleFormText: var(--infor-single-form-text);// 弹窗文字
+@inforSingleBg: var(--bgNormal);//
+
+/*==================================角色列表-覃*/
+@systemManPersonBg: var(--bgNormal);
+@systemManPersonText: var(--infor-single-form-text);// 弹窗文字
+/*==================================账号管理-覃*/
+@systemAccountText: var(--infor-single-form-text);// 弹窗文字
+
+/* ==================================弹窗文字颜色 */
+@alertModalColor: var(--infor-single-form-text);
+

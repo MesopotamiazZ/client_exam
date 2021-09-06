@@ -1,0 +1,8 @@
+{
+  "name": "深绿",
+  "className": "theme2",
+  "property": {
+    "--navbar-gradient-start": "rgb(83, 160, 40)",
+    "--navbar-gradient-end": "rgb(168, 227, 76)"
+  }
+}

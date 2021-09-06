@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>检前准备</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAFEFF" offset="0%"></stop>
+            <stop stop-color="#EDF2F2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M40.4891998,14.1680702 L29.8701714,25.8216731 C29.7661118,25.9353128 29.6235117,26 29.4737541,26 L27.5505796,26 C27.2466597,26 27,25.7389201 27,25.4172324 L27,23.329759 C27,23.1741601 27.058912,23.0249716 27.1635221,22.9154113 L38.0220527,11.5432851 C38.7031196,10.818905 39.8075823,10.818905 40.4891998,11.5432851 C41.1702667,12.2682479 41.1702667,13.4431073 40.4891998,14.1680702 Z M30.6677839,26.921681 L34,23.4218263 L34,26.9001703 C34,29.1547278 32.1997525,31 30.0002062,31 L15.9997938,31 C13.7996803,31 12,29.1547278 12,26.9001703 L12,7.09982974 C12,4.84527221 13.7996803,3 15.9997938,3 L30.0002062,3 C32.1997525,3 34,4.84527221 34,7.09982974 L34,13.571654 L25.6657729,22.0381629 L25.6725791,22.044558 C25.430958,22.2538516 25.2744148,22.5637224 25.2744148,22.9142893 L25.2744148,26.3414725 C25.2744148,26.9722603 25.7712695,27.4832856 26.3838301,27.4832856 L29.7109415,27.4832856 C30.1187481,27.4832856 30.4704032,27.2548067 30.6632464,26.9176114 L30.6677839,26.921681 Z M17.2502146,19 L24.7497854,19 C25.4398352,19 26,18.330137 26,17.5034247 L26,17.4958904 C26,16.669863 25.4398352,16 24.7497854,16 L17.2502146,16 C16.5595926,16 16,16.669863 16,17.4958904 L16,17.5034247 C16,18.330137 16.5595926,19 17.2502146,19 Z M20.7997803,24 C21.4627849,24 22,23.3284504 22,22.4996567 C22,21.6715496 21.4627849,21 20.7997803,21 L17.2002197,21 C16.5372151,21 16,21.6715496 16,22.4996567 C16,23.3284504 16.5372151,24 17.2002197,24 L20.7997803,24 Z M17.2729921,11 C16.5697878,11 16,11.6715496 16,12.4996567 C16,13.3284504 16.5697878,14 17.2729921,14 L28.7275905,14 C29.4302122,14 30,13.3284504 30,12.4996567 C30,11.6715496 29.4302122,11 28.7275905,11 L17.2729921,11 Z" id="path-1"></path>
+        <filter x="-12.1%" y="-8.9%" width="124.1%" height="125.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0938796525   0 0 0 0 0.235086435   0 0 0 0 0.266661352  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="顶部图标" transform="translate(-8.000000, 1.000000)">
+            <g id="Group-5" transform="translate(0.000000, -2.000000)">
+                <g id="检前准备" transform="translate(0.000000, 1.000000)">
+                    <text font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="0" y="48">检前准备</tspan>
+                    </text>
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-1)" xlink:href="#path-1"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

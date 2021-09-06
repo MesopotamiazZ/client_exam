@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="32px" viewBox="0 0 44 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>VIP 标签</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="综合管理_个人体检" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-81.000000, -90.000000)">
+            <g id="Group-3" transform="translate(74.000000, 77.000000)">
+                <polygon id="Rectangle" fill="#83CB54" transform="translate(25.308950, 25.308950) rotate(-315.000000) translate(-25.308950, -25.308950) " points="19.3574589 14.8526107 35.0011647 -0.791095098 26.8350365 51.4089943 15.6167345 40.1906923"></polygon>
+                <text id="VIP" transform="translate(22.300710, 25.675014) scale(-1, -1) rotate(143.000000) translate(-22.300710, -25.675014) " font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="12.8085221" y="30.6750141">VIP</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

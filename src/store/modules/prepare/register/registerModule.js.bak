@@ -1,0 +1,92 @@
+
+import * as types from './registerTypes'
+import api from '@/api'
+import timeFilter from '@/fifters/timeFilter.js'
+import idNumFilter from '@/fifters/idNumFilter.js'
+// import * as _ from 'lodash'
+const state = {
+  initEditData: {}, // 修改订单弹窗数据
+  phyExaminProData: {}, // 修改体检项目数据
+}
+
+const mutations = {
+  [types.SET_AMENDORDER] (state, payload) {
+    state.initEditData = payload
+  },
+  [types.SET_PHYEXAMINPRO] (state, payload) {
+    state.phyExaminProData = payload
+  },
+}
+
+const actions = {
+  async initAmendOrder ({commit}, data) { // 加载修改订单
+    let result = await api.register.initAmendOrder(data)
+    commit(types.SET_AMENDORDER, result)
+  },
+  async phyExaminPro ({commit}, data) { // 修改项目
+    let result = await api.register.phyExaminPro(data)
+    commit(types.SET_PHYEXAMINPRO, result)
+  },
+  async commitPhyExaminPro ({commit}, data) { // 提交修改订单
+    return await api.register.commitPhyExaminPro(data.id, data.data)
+  },
+}
+const getters = {
+  initEditData: (state) => {
+    // 处理显示
+    let newData = JSON.parse(JSON.stringify(state.initEditData))
+    // console.log(newData)
+    let initData = newData.customer
+    if (parseInt(initData.sex) === 1) {
+      initData.sex = '男'
+    } else {
+      initData.sex = '女'
+    }
+    // let dataArray = initData.id_card.split('')
+    // let newIdNum = ''
+    // let i = ''
+    // dataArray.splice(parseInt(dataArray.length) - 4, 4, '****')
+    // for (i in dataArray) {
+    //   newIdNum += dataArray[i]
+    // }
+    // initData.id_card = newIdNum
+    initData.id_card = idNumFilter(initData.id_card) // 处理身份证
+    if (initData.unit_id === null) {
+      initData.unit_id = '个人'
+    } else {
+      initData.unit_id = '单位'
+    }
+     // 处理最后修改时间
+    newData.updated_at = timeFilter(newData.updated_at)
+     // 处理显示的已选列表
+    let j = ''
+    let newPeGroupItem = []
+    for (j in newData.pe_group_item) {
+      let data = {
+        name: newData.pe_group_item[j].group_item_name,
+        price: newData.pe_group_item[j].price,
+        id: newData.pe_group_item[j].id,
+      }
+      newPeGroupItem.push(data)
+    }
+    newData.pe_group_item = newPeGroupItem
+    return newData
+  },
+  phyExaminProData: (state) => {
+    return state.phyExaminProData.items.map((data) => {
+      return {
+        name: data.name,
+        price: data.price,
+        id: data.id,
+      }
+    })
+  },
+}
+
+export default {
+  namespaced: true,
+  state,
+  mutations,
+  actions,
+  getters,
+}

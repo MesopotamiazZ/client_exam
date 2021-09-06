@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>仪器接口</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FAFEFF" offset="0%"></stop>
+            <stop stop-color="#EDF2F2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M37,1 C45.83648,1 53,8.163392 53,17 C53,25.836608 45.83648,33 37,33 C28.163392,33 21,25.836608 21,17 C21,8.163392 28.163392,1 37,1 Z M45.3618059,23 C46.3994643,23 47.1754152,22.1429821 46.9655689,21.2289018 L45.1168033,13.1752321 C44.9595823,12.4909732 44.2896463,12 43.5128219,12 L30.4871744,12 C29.71035,12 29.040414,12.4909732 28.8833022,13.1752321 L27.0344274,21.2289018 C26.824581,22.1429821 27.6006412,23 28.6382995,23 L45.3618059,23 Z M33,19.5 C33,20.3284167 32.3284167,21 31.5,21 C30.6715833,21 30,20.3284167 30,19.5 C30,18.6715833 30.6715833,18 31.5,18 C32.3284167,18 33,18.6715833 33,19.5 Z M39,19.5 C39,20.3284167 38.3284167,21 37.5,21 C36.6715833,21 36,20.3284167 36,19.5 C36,18.6715833 36.6715833,18 37.5,18 C38.3284167,18 39,18.6715833 39,19.5 Z M45,19.5 C45,20.3284167 44.3284167,21 43.5,21 C42.6715833,21 42,20.3284167 42,19.5 C42,18.6715833 42.6715833,18 43.5,18 C44.3284167,18 45,18.6715833 45,19.5 Z M36,15.5 C36,16.3284167 35.3284167,17 34.5,17 C33.6715833,17 33,16.3284167 33,15.5 C33,14.6715833 33.6715833,14 34.5,14 C35.3284167,14 36,14.6715833 36,15.5 Z M42,15.5 C42,16.3284167 41.3284167,17 40.5,17 C39.6715833,17 39,16.3284167 39,15.5 C39,14.6715833 39.6715833,14 40.5,14 C41.3284167,14 42,14.6715833 42,15.5 Z" id="path-5"></path>
+        <filter x="-10.9%" y="-7.8%" width="121.9%" height="121.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0938796525   0 0 0 0 0.235086435   0 0 0 0 0.266661352  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="顶部图标" transform="translate(-481.000000, 1.000000)">
+            <g id="Group-5" transform="translate(0.000000, -2.000000)">
+                <g id="仪器借口" transform="translate(462.000000, 1.000000)">
+                    <text id="仪器接口管理" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="0" y="48">仪器接口管理</tspan>
+                    </text>
+                    <g id="Fill-13">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "深蓝",
+  "className": "theme1",
+  "property": {
+    "--navbar-gradient-start": "#0067d4",
+    "--navbar-gradient-end": "#008cee"
+  }
+}

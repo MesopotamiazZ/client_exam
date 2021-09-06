@@ -1,0 +1,19 @@
+
+/**
+* @author 王振东
+* @date 2018/03/10
+* @content 体检登记
+*/
+import method from '@/api/method'
+// import helper from '@/utils/helper'
+
+export function initAmendOrder(params) { // 修改订单数据请求
+  return method.get(`api/examine/physical-examines/${params}/detail`, {authorize: true})
+}
+
+export function phyExaminPro() { // 修改体检项目
+  return method.get(`api/baseinfo/group-items?per_page=100000&filters=status:1`, {authorize: true})
+}
+export function commitPhyExaminPro(params, data) { // 修改订单提交
+  return method.put(`api/examine/physical-examines/${params}/detail`, data, {authorize: true})
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>基本信息</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FAFEFF" offset="0%"></stop>
+            <stop stop-color="#EDF2F2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M31,20 L49,20 L49,18 L31,18 L31,20 Z M24,25 L49,25 L49,23 L24,23 L24,25 Z M26.5004447,16 C27.8809323,16 29,17.1189782 29,18.4999033 C29,19.8812925 27.8809323,21 26.5004447,21 C25.1190677,21 24,19.8811378 24,18.4999033 C24,17.1189782 25.1190677,16 26.5004447,16 L26.5004447,16 Z M49.7678541,13 L50.6781454,13 C51.4081979,13 52,13.5551878 52,14.2400726 L52,27.7599274 C52,28.4447757 51.4081979,29 50.6781454,29 L21.3218546,29 C20.5918409,29 20,28.4447757 20,27.7599274 L20,14.2400726 C20,13.5551878 20.5918409,13 21.3218546,13 L49.7678541,13 Z M50,12 L22,12 L22,10.119403 C22,9.5011791 22.4281475,9 22.9562842,9 L49.0437158,9 C49.5718525,9 50,9.5011791 50,10.119403 L50,12 Z M48,8 L24,8 L24,6.7462807 C24,6.33410526 24.3669682,6 24.8196472,6 L47.1803143,6 C47.6330318,6 48,6.33410526 48,6.7462807 L48,8 Z" id="path-3"></path>
+        <filter x="-10.9%" y="-10.9%" width="121.9%" height="130.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0938796525   0 0 0 0 0.235086435   0 0 0 0 0.266661352  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="顶部图标" transform="translate(-229.000000, 2.000000)">
+            <g id="Group-5" transform="translate(0.000000, -2.000000)">
+                <g id="基本信息" transform="translate(211.000000, 0.000000)">
+                    <g id="Fill-1">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

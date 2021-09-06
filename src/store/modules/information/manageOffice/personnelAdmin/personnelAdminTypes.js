@@ -1,0 +1,12 @@
+// 部门管理 xk
+export const SET_PERSONNEL = 'setPersonnel'
+export const SET_JOBS = 'setJobs'
+export const SET_INNERPARTYDYTIES = 'setInnerPartyDyties'
+export const SET_DIVISIONS = 'setDivisions'
+export const SET_ADMINISTRATIVE = 'setAdminstartive'
+export const SET_PERSONNEL_ALL = 'setPersonnelAll'
+export const SET_DEPT_TYPE_ALL = 'setDeptTypeAll'
+export const SET_DEPT_ALL = 'setDeptAll'
+// export const SET_PERSONNEL_CLASS = 'setPersonnelClass'
+// export const SET_PERSONNEL_ALL = 'setPersonnelclassAll'
+// export const SET_PERSONNEL_STDS = 'setPersonnelStds'

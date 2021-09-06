@@ -1,0 +1,510 @@
+@import './variable.less';
+@import './iviewPublic.less';
+
+*{
+  -webkit-app-region: no-drag;
+}
+/*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+/*定义滚动条轨道 内阴影+圆角*/
+::-webkit-scrollbar-track {
+  border-radius: 3px;
+}
+
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background-color: #cccccc;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  border-radius: 3px;
+  background-color: #999999;
+}
+
+/*去掉数字输入框的上下箭头*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin: 0;
+}
+//布局
+.dispalyT {
+  display: table;
+}
+.tableCell {
+  width: 1%;
+  // padding: 0 10px 0 20px;
+  display: table-cell;
+  white-space: nowrap;
+}
+.tableCellEnd {
+  width: 1%;
+  padding: 0 10px 0 15px;
+  display: table-cell;
+  white-space: nowrap;
+}
+.flex {
+  display: flex;
+  white-space: nowrap;
+  align-items: center;
+}
+.flx1 {
+  flex: 1;
+}
+
+//公用
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clearBoth {
+  clear: both;
+}
+.clearLeft {
+  clear: left;
+}
+.clearRight {
+  clear: right;
+}
+.clearBefore {
+  zoom:1;
+  &:before {
+    content: '';
+    width: 100%;
+    height: 0;
+    line-height:0;
+    display: inline-block;
+    clear:both;
+  }
+}
+.clearAfter {
+  zoom:1;
+  &:after {
+    content: '';
+    width: 100%;
+    height: 0;
+    line-height:0;
+    display: inline-block;
+    clear:both;
+  }
+}
+.curPointer {
+  cursor: pointer;
+}
+.fontSizeNum(@sizeNum) {
+  font-size: @sizeNum;
+}
+.font0{
+  font-size: 0;
+}
+.font12 {
+  font-size: 12px;
+}
+.font14 {
+  font-size: 14px;
+}
+.font16 {
+  font-size: 16px;
+}
+.font18 {
+  font-size: 18px;
+}
+.font20 {
+  font-size: 20px;
+}
+.font22 {
+  font-size: 22px;
+}
+.font24 {
+  font-size: 24px;
+}
+.font26 {
+  font-size: 26px;
+}
+.font28 {
+  font-size: 28px;
+}
+.font30 {
+  font-size: 30px;
+}
+.font32 {
+  font-size: 32px;
+}
+.fontBold {
+  font-weight: bold;
+}
+
+.padding10 {
+  padding: @num10;
+}
+.padding20 {
+  padding: @num20;
+}
+.paddingR20 {
+  padding-right: 20px;
+}
+.paddingR15 {
+  padding-right: 15px;
+}
+.paddingR10 {
+  padding-right: 10px;
+}
+.paddingR5 {
+  padding-right: 5px;
+}
+
+.paddingL20 {
+  padding-left: 20px;
+}
+.paddingL15 {
+  padding-left: 15px;
+}
+.paddingL10 {
+  padding-left: 10px;
+}
+.paddingL5 {
+  padding-left: 5px;
+}
+
+.paddingT20 {
+  padding-top: 20px;
+}
+.paddingT10 {
+  padding-top: 10px;
+}
+.paddingT15 {
+  padding-top: 15px;
+}
+.paddingT5 {
+  padding-top: 5px;
+}
+
+.paddingB20 {
+  padding-bottom: 20px;
+}
+.paddingB15 {
+  padding-bottom: 15px;
+}
+.paddingB10 {
+  padding-bottom: 10px;
+}
+.paddingB5 {
+  padding-bottom: 5px;
+}
+
+.margin10 {
+  margin: @num10;
+}
+.margin20 {
+  margin: @num20;
+}
+.marginR20 {
+  margin-right: 20px;
+}
+.marginR15 {
+  margin-right: 15px;
+}
+.marginR10 {
+  margin-right: 10px;
+}
+.marginR5 {
+  margin-right: 5px;
+}
+
+.marginL20 {
+  margin-left: 20px;
+}
+.marginL15 {
+  margin-left: 15px;
+}
+.marginL10 {
+  margin-left: 10px;
+}
+.marginL5 {
+  margin-left: 5px;
+}
+
+.marginT20 {
+  margin-top: 20px;
+}
+.marginT15 {
+  margin-top: 15px;
+}
+.marginT10 {
+  margin-top: 10px;
+}
+.marginT5 {
+  margin-top: 5px;
+}
+
+.marginB20 {
+  margin-bottom: 20px;
+}
+.marginB15 {
+  margin-bottom: 15px;
+}
+.marginB10 {
+  margin-bottom: 10px;
+}
+.marginB5 {
+  margin-bottom: 5px;
+}
+.height100P{
+  height: 100%;
+}
+.relative{
+  position: relative;
+}
+//内容背景
+.contentBg {
+
+  border: 1px solid #E0E0E0;
+  border-radius: @borderRadiuBig;
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 15px 0 rgba(206,213,242,0.70);
+}
+.contentNoBg {
+
+  border: 1px solid #E0E0E0;
+  border-radius: @borderRadiuBig;
+  background-color: #FFFFFF;
+}
+.out-content-bg{
+  // background-color: lightblue;
+  background-color: #fff;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+//文字两端对齐，使用的时候该元素有宽度，元素溢出隐藏
+.textJustify {
+  text-align: justify;
+  // line-height: @num30;
+  // height: @num30;
+  // overflow: hidden;
+  // outline: 1px solid red;
+  &:after{
+    content:"";
+    display: inline-block;
+    width:100%;
+    overflow:hidden;
+    height:0%;
+  }
+}
+//超出省略号结尾...
+.overflowEllipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-break: break-all;
+}
+//div里面放置原生input框样式
+.inputOutDiv {
+  display: inline-block;
+  height: 40px;
+  padding: @num5 @num10;
+}
+.inputInDiv {
+  line-height:@num30;
+  height:@num30;
+  width:100%;
+  border:none;
+  outline:none;
+}
+// 右侧边框选中
+.rightContentRBorder {
+  width: calc(~'100% + 2px');
+  height:  calc(~'100% + 2px');
+  border-radius: @borderRadiuBig;
+  border: 2px solid #68ccff;
+  // border: 2px solid @gradeBlueTwo;
+  z-index: -1;
+  position: absolute;
+  left:-1px;
+  top:-1px;
+}
+
+// 右侧表格边框
+.right_w{
+  position: relative;
+  height: 100%;
+  z-index: 1;
+}
+
+.right_w + .borderClass{
+  border-radius: @borderRadiuBig;
+  border: 2px solid #68ccff;
+  position: absolute;
+  top: 0;
+  left: -2px;
+  right: -2px;
+  bottom: 0;
+}
+
+// 按钮-没有背景
+.selfButtonLine {
+  cursor: pointer;
+  min-width: @buttonMinWidth;
+  height: @buttonH;
+  line-height: @buttonH;
+  padding: 0 @buttonPaddingLR;
+  background-color: transparent;
+  border-radius: @borderRadiuSmall;
+  color: @gradeBlueOne;
+  border: @borderWidth solid @gradeBlueOne;
+  &:hover {//移入
+    background-color: #ebf4ff;
+  }
+}
+.selfButtonLineClcik {//点击背景
+  background-color: #b8d8ff;
+}
+.selfButtonLineDisabled {//禁用？
+  color: #c7c7c7;
+  border-color: #c7c7c7;
+}
+//按钮-有背景
+.selfButton {
+  cursor: pointer;
+  min-width: @buttonMinWidth;
+  height: @buttonH;
+  line-height: @buttonH;
+  padding: 0 @buttonPaddingLR;
+  background-color: @gradeBlueTwo;
+  border-radius: @borderRadiuSmall;
+  color: #fff;
+  border:none;
+  // border: @borderWidth solid @gradeBlueOne;
+  &:hover {//移入
+    background-color: #3d96ff;
+  }
+}
+.selfButtonClcik {//点击背景
+  background-color: #3d96ff;
+  border:none;
+}
+.selfButtonDisabled {//禁用？
+  color: #e2e2e2;
+  border-color: #c7c7c7;
+  background-color: #e2e2e2;
+}
+// 公用遮罩层
+.mask {
+  position: absolute;
+  right: 0;
+  top: 110px;
+  left: 225px;
+  bottom: 0;
+}
+//红色*号
+.symbol{
+  font-size: 16px;
+  display: inline-block;
+  line-height: 30px;
+  color: red;
+}
+/*验证提示*/
+//输入框
+.inputVerificationTs {
+  position: relative;
+  &::after {
+    content: '*';
+    font-size: 16px;
+    color: @tsIcon;
+    position: absolute;
+    right: 12px;
+    top: 7px;
+    z-index: 100;
+  }
+}
+.inputVerificationTsHasUnit {
+  position: relative;
+  &::after {
+    content: '*';
+    font-size: 16px;
+    color: @tsIcon;
+    position: absolute;
+    right: 24px;
+    top: 7px;
+    z-index: 100;
+  }
+}
+// 下拉框
+.selectVerificationTs {
+  position: relative;
+  &::after {
+    content: '*';
+    font-size: 16px;
+    color: @tsIcon;
+    position: absolute;
+    right: 22px;
+    top: 7px;
+  }
+}
+// 输入框后面有单位
+.self-input-price {
+  position: relative;
+  .ivu-input {
+    padding-right: 25px;
+  }
+  &::before {
+    position: absolute;
+    content: '元';
+    display: inline-block;
+    font-size: 12px;
+    top: 7px;
+    right: 10px;
+    z-index: 10;
+  }
+}
+.self-input-year {
+  position: relative;
+  .ivu-input {
+    padding-right: 25px;
+  }
+  &::before {
+    position: absolute;
+    content: '年';
+    display: inline-block;
+    font-size: 12px;
+    top: 7px;
+    right: 10px;
+    z-index: 10;
+  }
+}
+.self-input-percent {
+  position: relative;
+  .ivu-input {
+    padding-right: 25px;
+  }
+  &::before {
+    position: absolute;
+    content: '%';
+    display: inline-block;
+    font-size: 12px;
+    top: 7px;
+    right: 10px;
+    z-index: 10;
+  }
+}
+// 原生input number
+.input-number {
+  background-color: transparent;
+  border: 1px solid ;
+}
+
+// 能够左右拖动布局的问题
+.split-pane-right-area {
+  overflow: initial!important; // 需要注销
+}
+.split-pane-horizontal > div > .split-pane-trigger { // 左右拖拽线宽,加important有效果
+  width: 1px;
+  z-index: 150; // 避免表格展开之后被遮挡
+}

@@ -1,0 +1,8 @@
+{
+  "name": "红色",
+  "className": "theme4",
+  "property": {
+    "--navbar-gradient-start": "rgb(244, 167, 177)",
+    "--navbar-gradient-end": "rgb(163, 3, 35)"
+  }
+}
